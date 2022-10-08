@@ -1,7 +1,7 @@
 import tweepy
 import os 
 from textblob import TextBlob
-
+#commented by lesia
 #Authenticate to twitter
 consumer_key = os.getenv("CONSUMER_KEY")
 consumer_secret = os.getenv("CONSUMER_SECRET")
